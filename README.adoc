@@ -1,10 +1,12 @@
 = Readme template
 James Dibley <jdibley@gmail.com>
 v0.2, 2020-02-24
+:sectlinks:
+:toc:
 
 = Version history 
 == Change log 
-[cols="2,7a", options=header]
+[cols="2,2,7a", options=header]
 |===
 | Date
 | Revision
@@ -25,3 +27,10 @@ This is a thing. We are finding out how extensively GitHub implements AsciiDoc r
 
 == Scope and limitations
 Limitations may include that we don't know exactly what features are supported yet. 
+
+= Further information
+Optional / recommended editor:
+
+ * Microsoft Visual Studio Code v1.41.1 (or newer)
+ ** https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one[Extensions: Markdown All in One v2.7.0 (or newer)]
+ ** https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode[Extensions: Asciidoc v2.7.13 (or newer)]
