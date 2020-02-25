@@ -1,0 +1,9 @@
+= Readme template
+James Dibley <jdibley@gmail.com>
+v0.2, 2020-02-24
+
+= Version history 
+== Change log 
+
+= What is this?
+== Scope and limitations
