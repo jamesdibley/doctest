@@ -1,6 +1,8 @@
 = Readme template
 James Dibley <jdibley@gmail.com>
 v0.2, 2020-02-24
+:imagesdir:
+ https://github.com/jamesdibley/doctest/tree/master/assets
 :sectlinks:
 :toc:
 
@@ -24,6 +26,10 @@ v0.2, 2020-02-24
 
 = What is this?
 This is a thing. We are finding out how extensively GitHub implements AsciiDoc rendering for files in a repository.
+
+== What is _this?_
+This is a dog
+image::dog.jpg[float="right"]
 
 == Scope and limitations
 Limitations may include that we don't know exactly what features are supported yet. 
