@@ -26,8 +26,7 @@ v0.2, 2020-02-24
 = What is this?
 This is a thing. We are finding out how extensively GitHub implements AsciiDoc rendering for files in a repository.
 
-== What is _this?_
-This is a dog. Hopefully.
+And how easy (or otherwise) it is to embed images:
 
 image::dog.jpg[]
 
