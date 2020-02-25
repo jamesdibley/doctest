@@ -4,6 +4,24 @@ v0.2, 2020-02-24
 
 = Version history 
 == Change log 
+[cols="2,7a", options=header]
+|===
+| Date
+| Revision
+| Notes
+
+| 20202-02-25
+| v0.2
+| Asciidoc experiment on GitHub
+
+| 2020-02-24
+| v0.1
+| Initial draft
+|===
+
 
 = What is this?
+This is a thing. We are finding out how extensively GitHub implements AsciiDoc rendering for files in a repository.
+
 == Scope and limitations
+Limitations may include that we don't know exactly what features are supported yet. 
