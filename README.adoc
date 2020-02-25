@@ -1,0 +1,29 @@
+ = doctest readme
+ James Dibley <jdibley@gmail.com>
+ v0.1, 2020-02-24
+ :sectlinks:
+ :toc:
+ 
+ = Version history
+ == Change log
+ [cols="2,7a", options=header]
+ |===
+ | Date
+ | Revision
+ | Notes
+ 
+ | 2020-02-04
+ | v0.1
+ | Asciidoc draft
+ 
+ | 2020-0?-??
+ | v0.05
+ | narfy foom!
+ |===
+ 
+ = What are you doing?
+ == Scope and limitations
+ = Why do I care?
+ == Target users
+ = Features
+ = Usage / examples
